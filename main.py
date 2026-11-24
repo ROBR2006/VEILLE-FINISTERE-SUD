@@ -197,7 +197,7 @@ Principales communes / codes postaux : Quimper 29000, Douarnenez 29100,
 Concarneau 29900, Quimperlé 29300, Pont-l'Abbé 29120, Guilvinec 29730,
 Penmarc'h 29760, Loctudy 29750, Fouesnant 29170, Bénodet 29950,
 Clohars-Carnoët 29360, Moëlan-sur-Mer 29350, Châteaulin 29150, Crozon 29160,
-Plogastel-Saint-Germain 29710, Audierne 29770, Plomodiern 29555,
+Plogastel-Saint-Germain 29710, Audierne 29770, Plomodiern 29550,
 Rosporden 29140, Scaër 29390.
 
 Ta mission : identifier les **créations** d'entreprises, **installations et
