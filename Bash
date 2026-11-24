@@ -1,0 +1,9 @@
+# une fois : installer uv (Linux/macOS)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+git clone https://github.com/ROBR2006/VEILLE-FINISTERE-SUD.git
+cd VEILLE-FINISTERE-SUD
+echo 'MISTRAL_API_KEY=votre_cle' > .env
+
+uv sync
+uv run --env-file .env agents deploy
